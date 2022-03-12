@@ -202,6 +202,7 @@ main {
 }
 
 .secondpage {
+  width: 100vw;
   height: 150vh;
   background: linear-gradient(to right bottom, #65dfc9, #6cdbeb);
 }
@@ -211,10 +212,14 @@ main {
 }
 .headings4 {
   margin: 1em;
-  padding: 1em;
+  /* padding: 1em; */
   color: black;
   font-weight: bold;
 }
 .paragrapgh1 {
   color: black;
+}
+.links {
+  padding: 1em;
+  text-decoration: none;
 }
